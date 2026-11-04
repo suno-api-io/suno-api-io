@@ -13,7 +13,7 @@ AI 音乐平台和开发者 API，使用 Suno 官方 V6 模型。
 - 官网：https://www.suno-api.io/
 - 在线创作：https://www.suno-api.io/create/
 - API 文档：https://www.suno-api.io/docs/
-- Python 示例：https://github.com/a649045484-ux/suno-api-python-starter
+- Python 示例：https://github.com/suno-api-io/suno-api-python-starter
 
 ### Python 示例包含
 
@@ -44,7 +44,7 @@ This GitHub account publishes developer examples, integration notes, and reprodu
 - Website: https://www.suno-api.io/
 - Create music: https://www.suno-api.io/create/
 - API documentation: https://www.suno-api.io/docs/
-- Python starter: https://github.com/a649045484-ux/suno-api-python-starter
+- Python starter: https://github.com/suno-api-io/suno-api-python-starter
 
 ### What the Python starter demonstrates
 
@@ -75,7 +75,7 @@ Suno 公式 V6 モデルを使用する AI 音楽プラットフォームおよ�
 - ウェブサイト：https://www.suno-api.io/
 - 楽曲作成：https://www.suno-api.io/create/
 - API ドキュメント：https://www.suno-api.io/docs/
-- Python サンプル：https://github.com/a649045484-ux/suno-api-python-starter
+- Python サンプル：https://github.com/suno-api-io/suno-api-python-starter
 
 ### Python サンプルの内容
 
@@ -106,7 +106,7 @@ Ce compte GitHub publie des exemples pour développeurs, des notes d'intégratio
 - Site web : https://www.suno-api.io/
 - Création musicale : https://www.suno-api.io/create/
 - Documentation API : https://www.suno-api.io/docs/
-- Exemple Python : https://github.com/a649045484-ux/suno-api-python-starter
+- Exemple Python : https://github.com/suno-api-io/suno-api-python-starter
 
 ### Contenu de l'exemple Python
 
@@ -137,7 +137,7 @@ Ce compte GitHub publie des exemples pour développeurs, des notes d'intégratio
 - Сайт: https://www.suno-api.io/
 - Создание музыки: https://www.suno-api.io/create/
 - Документация API: https://www.suno-api.io/docs/
-- Пример на Python: https://github.com/a649045484-ux/suno-api-python-starter
+- Пример на Python: https://github.com/suno-api-io/suno-api-python-starter
 
 ### Что содержит пример на Python
 
