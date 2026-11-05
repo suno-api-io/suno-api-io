@@ -2,6 +2,8 @@
 
 [简体中文](#简体中文) | [English](#english) | [日本語](#日本語) | [Français](#français) | [Русский](#русский)
 
+📚 [完整 GitHub 接口文档 / Complete API documentation](https://github.com/suno-api-io/suno-api-python-starter/blob/main/docs/README.md)
+
 ## 简体中文
 
 AI 音乐平台和开发者 API，使用 Suno 官方 V6 模型。
