@@ -4,6 +4,8 @@
 
 📚 [完整 GitHub 接口文档 / Complete API documentation](https://github.com/suno-api-io/suno-api-python-starter/blob/main/docs/README.md)
 
+🧭 [媒体交付指南 / Media delivery guide](https://github.com/suno-api-io/suno-api-python-starter/blob/main/guides/media-url-lifecycle.md)
+
 ## 简体中文
 
 AI 音乐平台和开发者 API，使用 Suno 官方 V6 模型。
