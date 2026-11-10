@@ -6,6 +6,12 @@
 
 🧭 [媒体交付指南 / Media delivery guide](https://github.com/suno-api-io/suno-api-python-starter/blob/main/guides/media-url-lifecycle.md)
 
+## Technical writing
+
+- [AI 音乐 API 接入失败地图（CSDN）](https://blog.csdn.net/qq_15889541111/article/details/170122909)
+- [AI 音乐生成完成后的媒体交付（CSDN）](https://blog.csdn.net/qq_15889541111/article/details/170346504)
+- [AI 音乐 API 超时与故障排查（知乎）](https://zhuanlan.zhihu.com/p/2101601083139286737)
+
 ## 简体中文
 
 AI 音乐平台和开发者 API，使用 Suno 官方 V6 模型。
