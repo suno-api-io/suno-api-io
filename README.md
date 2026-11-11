@@ -4,6 +4,8 @@
 
 📚 [完整 GitHub 接口文档 / Complete API documentation](https://github.com/suno-api-io/suno-api-python-starter/blob/main/docs/README.md)
 
+🌐 [五语种快速开始 / Five-language quickstart](https://github.com/suno-api-io/suno-api-python-starter/blob/main/docs/quickstart-multilingual.md)
+
 🧭 [媒体交付指南 / Media delivery guide](https://github.com/suno-api-io/suno-api-python-starter/blob/main/guides/media-url-lifecycle.md)
 
 ## Technical writing
