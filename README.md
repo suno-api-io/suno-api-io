@@ -26,6 +26,7 @@ AI 音乐平台和开发者 API，使用 Suno 官方 V6 模型。
 - 在线创作：https://www.suno-api.io/create/
 - API 文档：https://www.suno-api.io/docs/
 - Python 示例：https://github.com/suno-api-io/suno-api-python-starter
+- TypeScript 示例：https://github.com/suno-api-io/suno-api-python-starter/tree/main/examples/typescript
 
 ### Python 示例包含
 
@@ -57,6 +58,7 @@ This GitHub account publishes developer examples, integration notes, and reprodu
 - Create music: https://www.suno-api.io/create/
 - API documentation: https://www.suno-api.io/docs/
 - Python starter: https://github.com/suno-api-io/suno-api-python-starter
+- TypeScript starter: https://github.com/suno-api-io/suno-api-python-starter/tree/main/examples/typescript
 
 ### What the Python starter demonstrates
 
@@ -88,6 +90,7 @@ Suno 公式 V6 モデルを使用する AI 音楽プラットフォームおよ�
 - 楽曲作成：https://www.suno-api.io/create/
 - API ドキュメント：https://www.suno-api.io/docs/
 - Python サンプル：https://github.com/suno-api-io/suno-api-python-starter
+- TypeScript サンプル：https://github.com/suno-api-io/suno-api-python-starter/tree/main/examples/typescript
 
 ### Python サンプルの内容
 
@@ -119,6 +122,7 @@ Ce compte GitHub publie des exemples pour développeurs, des notes d'intégratio
 - Création musicale : https://www.suno-api.io/create/
 - Documentation API : https://www.suno-api.io/docs/
 - Exemple Python : https://github.com/suno-api-io/suno-api-python-starter
+- Exemple TypeScript : https://github.com/suno-api-io/suno-api-python-starter/tree/main/examples/typescript
 
 ### Contenu de l'exemple Python
 
@@ -150,6 +154,7 @@ Ce compte GitHub publie des exemples pour développeurs, des notes d'intégratio
 - Создание музыки: https://www.suno-api.io/create/
 - Документация API: https://www.suno-api.io/docs/
 - Пример на Python: https://github.com/suno-api-io/suno-api-python-starter
+- Пример на TypeScript: https://github.com/suno-api-io/suno-api-python-starter/tree/main/examples/typescript
 
 ### Что содержит пример на Python
 
